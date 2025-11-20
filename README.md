@@ -2,7 +2,7 @@
 
 ### Hi! Welcome to my GitHub
 
-I'm a **Computer Engineering student** passionate about **web development** and constantly improving my skills.  
+I'm a **Computer Engineering student** passionate about **software development** and constantly improving my skills.  
 I focus on the **JavaScript ecosystem**, mainly working with **React** and **Node.js**, and I love transforming ideas into real, functional applications.
 
 ---
@@ -20,8 +20,7 @@ I focus on the **JavaScript ecosystem**, mainly working with **React** and **Nod
 ---
 
 ## Contact Me
-- [LinkedIn](https://linkedin.com/in/thiago-placa-a75475231)  
-- Email: **thiago_placa99@outlook.com**
+- [LinkedIn](https://linkedin.com/in/thiago-placa-a75475231)
 
 ---
 
@@ -36,13 +35,8 @@ You can check out my archives [here](https://github.com/thiagoplaca/dotfiles). A
 
 | System | Name | Project site |
 | --- | --- | --- |
-| OS | Arch Linux | https://archlinux.org/ |
+| OS | Void Linux | https://voidlinux.org/ |
 | TWM | i3wm | https://i3wm.org/ |
 | Bar | Polybar | https://polybar.github.io/ |
 | Menu | Rofi | https://github.com/davatorium/rofi |
-| Terminal | Kitty| https://sw.kovidgoyal.net/kitty/ |
-
-
-
-
-
+| Terminal | Alacritty| https://alacritty.org/|
