@@ -35,7 +35,7 @@ You can check out my archives [here](https://github.com/thiagoplaca/dotfiles). A
 
 | System | Name | Project site |
 | --- | --- | --- |
-| OS | Void Linux | https://voidlinux.org/ |
+| OS | Arch Linux | https://archlinux.org/ |
 | TWM | i3wm | https://i3wm.org/ |
 | Bar | Polybar | https://polybar.github.io/ |
 | Menu | Rofi | https://github.com/davatorium/rofi |
