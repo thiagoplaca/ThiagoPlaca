@@ -3,7 +3,7 @@
 ### Hi! Welcome to my GitHub
 
 I'm a **Computer Engineering student** passionate about **software development** and constantly improving my skills.  
-I focus on the **JavaScript ecosystem**, mainly working with **React** and **Node.js**, and I love transforming ideas into real, functional applications.
+I focus on the **JavaScript ecosystem**, mainly working with **React** and **Node.js**.
 
 ---
 
